@@ -23,8 +23,8 @@ class DatabaseConnection
   }
 }
 
-// print( "Handle = ".DatabaseConnection::get()->handle()."\n" );
-// print( "Handle = ".DatabaseConnection::get()->handle()."\n" );
+print( "Handle = ".DatabaseConnection::get()->handle()."\n" );
+print( "Handle = ".DatabaseConnection::get()->handle()."\n" );
 // $db = new DatabaseConnection(); 
 
 
